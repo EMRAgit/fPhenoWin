@@ -7,4 +7,4 @@ R functions for the derivation of annual crop-specific phenological windows
  * PHASE.DIR - direction with interpolated phenological observations
  * OUT.DIR - direction for output files 
  * YEAR - year,
- * PLANT - crop type ()
+ * PLANT - crop type (https://github.com/EMRAgit/fPhenoWin/blob/master/_input/AvailablePhases.txt)
