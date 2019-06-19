@@ -13,7 +13,7 @@ print("Call function")
 PLANT <- 202
 YEAR <- 2018
 RU.DIR = "_fPhenoWin/_input/"
-PHASE.DIR = "_fPhase/_output/"
+PHASE.DIR = "_fPhenoWin/_output/"
 OUT.DIR <- "_fPhenoWin/_output/"
 RU = "VG250_KRS_UCKERMARK_epsg25832"
 
