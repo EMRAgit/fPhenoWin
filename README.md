@@ -1,5 +1,6 @@
 # fPhenoWin
 R functions for the derivation of annual crop-specific phenological windows
+* fPhenoWin() is developed and tested for Windows 8/10 and R-3.4.3
 * fPhenoWin() is excecuted by calling "call_fPhenoWin.R" by defining the following inputs:
   * W.DIR - working directory
   * RU.DIR - direction with reference unit shape file
