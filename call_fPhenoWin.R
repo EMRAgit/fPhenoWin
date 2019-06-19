@@ -20,7 +20,7 @@ RU = "VG250_KRS_UCKERMARK_epsg25832"
 setwd(file.path(W.DIR,OUT.DIR))
 pdf(paste(RU,"_",PLANT,"_",YEAR,c(".pdf"),sep=""), 
     height=3.5,width=10)
-fPhenoWinSeason(W.DIR,
+fPhenoWin(W.DIR,
           RU.DIR,
           PHASE.DIR,
           OUT.DIR,
